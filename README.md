@@ -1,4 +1,4 @@
-Pill Reminder
+Pill Reminder System
 ===
 
 The Goal:
