@@ -5,13 +5,6 @@ The Goal:
 ---
 Pill Reminder is an native android application meant to aid the forgetful and busy with remembering to take their daily medications. It is designed for users who need a little help keeping track of their medication schedule and who are dedicated to keeping the schedule. It is not designed for people who wish to cheat the system or plan to not stay up-to-date with the schedule. The application allows the user to store pill objects and multiple alarms for those pills. Alarms have one time of day and can occur on multiple days of the week. The user is able to view their pills in a today view, a tomorrow view, a weekly view, and an editable view that shows every pill and every alarm.
 
-How to get it working:
----
-- Download ZIP from GitHub
-- Download Android Studio and SDK Android 5.0.1 API 21 (the minimum API Level required for the application to run is API 16)
-- SDK Build Tools 21.1.2
-- It is not recommended for phones with resolution smaller than 480x800
-- Please use at your own risk for APIs newer than API 21 and older than API 16
 
 Use Cases and What Each Button Does:
 ---
